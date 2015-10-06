@@ -1,0 +1,46 @@
+#enroute-holder {
+	overflow: hidden;
+}
+
+.enroute-map-container {
+	width: 100%;
+}
+
+.enroute-map-container + #enroute-route {
+	margin-top: 20px;
+}
+
+.gm-style img {
+	max-width: none !important;
+}
+
+#enroute-route .split {
+	margin-right: 20px;
+	float: left;
+}
+
+.enroute-btn {
+	height: 30px;
+	padding: 0 20px;
+}
+
+.enroute-btn.enroute-print {
+	border-right: 1px solid #000;
+}
+
+.enroute-control.has-error {
+	background-color: #f9f2f4;
+}
+
+#enroute-directions {
+	padding: 20px 0;
+}
+
+.enroute-tax-page .enroute-map-container {
+    height: 400px;
+}
+
+#enroute-controls-top {
+    clear: both;
+    padding-top: 10px;
+}
