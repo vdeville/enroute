@@ -38,9 +38,10 @@ You can add custom CSS through your theme, or child theme and it should overwrit
 == Screenshots ==
 
 1. Shortcode generator settings.
-2. Default Enroute layout.
+2. Enroute layout.
+3. Locations layout.
 
 == Changelog ==
 
-= 0.1 =
+= 1.0 =
 * First release.

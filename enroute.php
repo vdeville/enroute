@@ -3,7 +3,7 @@
  * Plugin Name: Enroute
  * Plugin URI: https://wordpress.org/plugins/enroute/
  * Description: Show your visitors how to get to you, during their journey.
- * Version: 0.1
+ * Version: 1.0
  * Author: Yusri Mathews
  * Author URI: http://yusrimathews.co.za/
  * License: GPLv2 or later
