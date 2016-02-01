@@ -41,6 +41,7 @@ You can add custom CSS through your theme, or child theme and it should overwrit
 2. Enroute layout.
 3. Locations layout.
 4. Directions, once requested.
+5. Simple management, as if you're editing or adding a post or a page.
 
 == Changelog ==
 
