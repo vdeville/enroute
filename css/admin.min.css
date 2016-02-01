@@ -5,29 +5,29 @@
 		color: #888;
 	}
 
-#faqss_formtable {
+#enroute_formtable {
 	width: 100%;
 	}
-	#faqss_formtable .faqss_cellname {
+	#enroute_formtable .enroute_cellname {
 		width: 40%;
 	}
-	#faqss_formtable .faqss_celloption {
+	#enroute_formtable .enroute_celloption {
 		width: 60%;
 	}
-	#faqss_formtable .faqss_cellthird {
+	#enroute_formtable .enroute_cellthird {
 		width: 30%;
 	}
 
-	#faqss_formtable .button-primary,
-	#faqss_formtable .button-default {
+	#enroute_formtable .button-primary,
+	#enroute_formtable .button-default {
 		margin-top: 20px;
 		}
-		#faqss_formtable .button-default {
+		#enroute_formtable .button-default {
 			margin-left: 15px;
 		}
-	#faqss_formtable .faqss_divider {
+	#enroute_formtable .enroute_divider {
 		margin: 15px 0;
 	}
-	#faqss_formtable .faqss_subheader {
+	#enroute_formtable .enroute_subheader {
 		margin-top: 0;
 	}
