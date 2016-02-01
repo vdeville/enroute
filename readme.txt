@@ -40,6 +40,7 @@ You can add custom CSS through your theme, or child theme and it should overwrit
 1. Shortcode generator settings.
 2. Enroute layout.
 3. Locations layout.
+4. Directions, once requested.
 
 == Changelog ==
 
