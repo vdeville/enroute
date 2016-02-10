@@ -149,7 +149,7 @@ function enroute_scripts(){
 		wp_enqueue_style( 'enroute-public-css', plugin_dir_url( __FILE__ ) . 'css/public.min.css', array( 'enroute-font-awesome' ) );
 
 		if( !empty( $enr_map_locations ) ){
-			wp_enqueue_script( 'enroute-google-api', 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&libraries=places' );
+			wp_enqueue_script( 'enroute-google-api', 'http://maps.googleapis.com/maps/api/js' );
 			wp_register_script( 'enroute-script-js', plugin_dir_url( __FILE__ ) . 'js/map-script.min.js', array( 'enroute-google-api' ) );
 			$enr_pass = array(
 				'enr_map_locations' => $enr_map_locations
